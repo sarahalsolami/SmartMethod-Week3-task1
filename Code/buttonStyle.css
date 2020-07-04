@@ -1,0 +1,81 @@
+body {
+  background-color: #ffffe6;
+}
+
+#goRight {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 57%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+
+}
+
+#goRight:hover {
+  background-color: #008CBA;
+  color: white;
+}
+
+#goLeft {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 43%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+#goLeft:hover {
+  background-color: #008CBA;
+  color: white;
+}
+
+
+#goForward {
+
+  margin: 0;
+  position: absolute;
+  top: 43%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+
+  }
+
+#goForward:hover {
+  background-color: #008CBA;
+  color: white;
+}
+
+
+#goBackword {
+  margin: 0;
+  position: absolute;
+  top: 57%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+
+}
+
+#goBackword:hover {
+  background-color: #008CBA;
+  color: white;
+}
+
+
+#Stop {
+
+ margin: 0;
+ position: absolute;
+ top: 50%;
+ left: 50%;
+ -ms-transform: translate(-50%, -50%);
+ transform: translate(-50%, -50%);
+}
+
+#Stop:hover {
+  background-color: Red;
+  color: white;
+}
